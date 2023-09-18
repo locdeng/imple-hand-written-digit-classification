@@ -1,5 +1,7 @@
 # Algorithm_03
-Assignment5
+This open-source SW project uses open-source libraries to conduct a required task. In this
+project, we perform an advanced AI method, namely deep learning, in order to address a simple hand-written digit
+classification problem
 
 # MODEL 1
 <img width="557" alt="model1" src="https://user-images.githubusercontent.com/104445003/173582266-40267bb4-1052-4687-a304-cfc001bd66cb.png">
