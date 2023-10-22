@@ -1,4 +1,4 @@
-# Algorithm_03
+# Project
 This open-source SW project uses open-source libraries to conduct a required task. In this
 project, we perform an advanced AI method, namely deep learning, in order to address a simple hand-written digit
 classification problem
